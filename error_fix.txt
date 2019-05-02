@@ -1,1 +1,2 @@
-http://answers.unity3d.com/questions/1041397/error-0xc000007b-and-msvcr100dll-issues.htm
+http://answers.unity3d.com/questions/1041397/error-0xc000007b-and-msvcr100dll-issues.html
+#added a line
